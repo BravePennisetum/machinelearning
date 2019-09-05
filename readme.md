@@ -81,6 +81,7 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 
 |文章 | 代码|
 ---|---
+[逻辑回归代数推导](https://blog.csdn.net/u014258807/article/details/80616647) |无
 [逻辑回归原理小结](https://www.cnblogs.com/pinard/p/6029432.html) |无
 [scikit-learn 逻辑回归类库使用小结](https://www.cnblogs.com/pinard/p/6035872.html) |无
 [感知机原理小结](https://www.cnblogs.com/pinard/p/6042320.html) |无
